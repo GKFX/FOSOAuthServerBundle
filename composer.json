@@ -32,6 +32,7 @@
     },
     "require-dev": {
         "alcaeus/mongo-php-adapter": "*",
+        "dms/phpunit-arraysubset-asserts": "^0.1 || ^0.2",
         "doctrine/doctrine-bundle": "^2.0",
         "doctrine/mongodb-odm": "~1.0",
         "doctrine/orm": "~2.2",
